@@ -28,18 +28,6 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.activity_main)
     DrawerLayout mDrawerLayout;
 
-
-
-
-
-
-
-
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -50,10 +38,10 @@ public class MainActivity extends AppCompatActivity {
         changeFragment(new NewsFragment());
     }
 
-    private void changeFragment(Fragment fragment){
-        FragmentManager fm=getSupportFragmentManager();
-        FragmentTransaction ft=fm.beginTransaction();
-        ft.replace(R.id.fragment_main,fragment);
+    private void changeFragment(Fragment fragment) {
+        FragmentManager fm = getSupportFragmentManager();
+        FragmentTransaction ft = fm.beginTransaction();
+        ft.replace(R.id.fragment_main, fragment);
         ft.addToBackStack(null);
         ft.commit();
 
@@ -75,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         mNavigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch (item.getItemId()){
+                switch (item.getItemId()) {
 
                 }
                 return true;
