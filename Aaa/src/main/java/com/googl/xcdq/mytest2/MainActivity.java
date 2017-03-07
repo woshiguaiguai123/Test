@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     NavigationView mNavigationView;
     @BindView(R.id.activity_main)
     DrawerLayout mDrawerLayout;
-    private NewsListFragment newsListFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
