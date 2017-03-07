@@ -24,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // 构建 LocationClient 实例
+
+
+
+
         mLocationClient = new LocationClient(getApplicationContext());
         // 注册一个定位监听器
         mLocationClient.registerLocationListener(new MyLocationListener());
