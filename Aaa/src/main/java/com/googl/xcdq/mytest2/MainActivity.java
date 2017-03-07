@@ -28,6 +28,14 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.activity_main)
     DrawerLayout mDrawerLayout;
 
+
+
+
+
+
+
+    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
