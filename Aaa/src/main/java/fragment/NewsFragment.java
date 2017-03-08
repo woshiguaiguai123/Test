@@ -64,10 +64,6 @@ public class NewsFragment extends Fragment {
         titles.add("财经");
         titles.add("时尚");
 
-//        newsFragmentAdapter.addDatasAdapter(fragments,titles);
-
-
-
         newsFragmentAdapter.addDatasAdapter(fragments, titles);
         mViewPager.setAdapter(newsFragmentAdapter);
         mTabLayout.setupWithViewPager(mViewPager);//把TabLayout和ViewPager关联上
