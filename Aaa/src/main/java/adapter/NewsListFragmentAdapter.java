@@ -30,7 +30,7 @@ public class NewsListFragmentAdapter extends RecyclerView.Adapter<NewsListFragme
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        NewsInfo data=datas.get(position);
+        NewsInfo data = datas.get(position);
         holder.mImageView.setImageResource(R.mipmap.ic_launcher_round);
         holder.titlenews.setText(data.title);
         holder.datenews.setText(data.date);
@@ -52,7 +52,8 @@ public class NewsListFragmentAdapter extends RecyclerView.Adapter<NewsListFragme
             datenews = (TextView) itemView.findViewById(R.id.tv_date_newslist);
         }
     }
-    public void addDatasToAdapter(List<NewsInfo> datas){
-        this.datas=datas;
+
+    public void addDatasToAdapter(List<NewsInfo> datas) {
+        this.datas = datas;
     }
 }
