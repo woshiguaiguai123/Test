@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         ActionBar toolbar = getSupportActionBar();
         if (toolbar != null) {
             toolbar.setDisplayHomeAsUpEnabled(true);
-            toolbar.setHomeAsUpIndicator(R.mipmap.ic_launcher);
+            toolbar.setHomeAsUpIndicator(R.mipmap.ic_launcher_round);
         }
     }
 
