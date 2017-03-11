@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.googl.xcdq.mytest2.MainActivity">
+
+    <!--<Button-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:stateListAnimator="@animator/selector_animator"-->
+    <!--android:text="jjjjjjj"-->
+    <!--tools:layout_editor_absoluteY="148dp"-->
+    <!--tools:layout_editor_absoluteX="148dp" />-->
+
+    <!--<Button-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="kkkkk"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+    <!--<SurfaceView-->
+    <!--android:id="@+id/sv_main"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+
+    <!--<TextureView-->
+    <!--android:id="@+id/tv_ttv"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+
+    <TextureView
+        android:id="@+id/tvvvv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <!--<VideoView-->
+        <!--android:id="@+id/vv_main"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+</RelativeLayout>

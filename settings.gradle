@@ -1,1 +1,1 @@
-include ':My SnackBarAndFAB', ':My Lbs', ':Aaa'
+include ':My SnackBarAndFAB', ':My Lbs', ':Aaa', ':My VideoPlayerDemo', ':vitamio'
