@@ -9,10 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Aaa" />
+            <option value="$PROJECT_DIR$/Layout Optimization" />
             <option value="$PROJECT_DIR$/My Lbs" />
+            <option value="$PROJECT_DIR$/My ORMlite" />
             <option value="$PROJECT_DIR$/My RecyclerView" />
             <option value="$PROJECT_DIR$/My SnackBarAndFAB" />
             <option value="$PROJECT_DIR$/My VideoPlayerDemo" />
+            <option value="$PROJECT_DIR$/Socket Service" />
+            <option value="$PROJECT_DIR$/SocketClient" />
             <option value="$PROJECT_DIR$/vitamio" />
           </set>
         </option>

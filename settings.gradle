@@ -1,1 +1,1 @@
-include ':My SnackBarAndFAB', ':My Lbs', ':Aaa', ':My VideoPlayerDemo', ':vitamio', ':My RecyclerView'
+include ':My SnackBarAndFAB', ':My Lbs', ':Aaa', ':My VideoPlayerDemo', ':vitamio', ':My RecyclerView', ':Layout Optimization', ':SocketClient', ':Socket Service', ':My ORMlite'

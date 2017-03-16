@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aaa/Aaa.iml" filepath="$PROJECT_DIR$/Aaa/Aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout Optimization/Layout Optimization.iml" filepath="$PROJECT_DIR$/Layout Optimization/Layout Optimization.iml" />
       <module fileurl="file://$PROJECT_DIR$/My Lbs/My Lbs.iml" filepath="$PROJECT_DIR$/My Lbs/My Lbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My ORMlite/My ORMlite.iml" filepath="$PROJECT_DIR$/My ORMlite/My ORMlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/My RecyclerView/My RecyclerView.iml" filepath="$PROJECT_DIR$/My RecyclerView/My RecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/My SnackBarAndFAB/My SnackBarAndFAB.iml" filepath="$PROJECT_DIR$/My SnackBarAndFAB/My SnackBarAndFAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/My VideoPlayerDemo/My VideoPlayerDemo.iml" filepath="$PROJECT_DIR$/My VideoPlayerDemo/My VideoPlayerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyTest2.iml" filepath="$PROJECT_DIR$/MyTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket Service/Socket Service.iml" filepath="$PROJECT_DIR$/Socket Service/Socket Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketClient/SocketClient.iml" filepath="$PROJECT_DIR$/SocketClient/SocketClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
     </modules>
   </component>

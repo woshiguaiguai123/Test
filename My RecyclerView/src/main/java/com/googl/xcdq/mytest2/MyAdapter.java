@@ -58,6 +58,11 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         notifyItemRangeChanged(fromPosition,mData.size()-fromPosition);
     }
 
+    public void addData(List<String> data) {
+        mData.addAll(data);
+        notifyDataSetChanged();
+    }
+
     static class ViewHolder extends RecyclerView.ViewHolder {
         private TextView mTextView;
 
